@@ -1,0 +1,56 @@
+{
+    "name": "MySMS",
+    "description": "<p>mysms is a cross-platform texting app which allows you to send and receive text messages from a computer or tablet just like on your smartphone. Messages are synced in realtime and available via any of your devices.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mysms-logo.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mysms\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MySMS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mysms-logo.jpg",
+            "humanURL": "http:\/\/www.mysms.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mysms-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mysms.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.mysms.com\/feed"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/api.mysms.com\/swagger\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.mysms.com\/premium"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mysms"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mysms.com\/"
+        }
+    ]
+}
